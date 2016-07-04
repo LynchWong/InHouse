@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.abc360</string>
 				<key>bundle-version</key>
-				<string>3.0.1</string>
+				<string>3.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>ABC360 二哥专用VIP定制版</string>
+				<string>我是二哥VIP定制版</string>
 			</dict>
 		</dict>
 	</array>
