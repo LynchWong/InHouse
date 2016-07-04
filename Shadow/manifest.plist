@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>com.abc360</string>
 				<key>bundle-version</key>
-				<string>3.0.1</string>
+				<string>3.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Shadow</string>
+				<string>ABC360 Shadow</string>
 			</dict>
 		</dict>
 	</array>
